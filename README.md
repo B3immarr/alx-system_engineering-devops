@@ -1,1 +1,2 @@
-shell redirectories script
+#!/bin/bash
+the alx systems development repo
